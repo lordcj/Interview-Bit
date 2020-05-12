@@ -1,1 +1,1 @@
-Solution by noobcj to Interview Bit Programming problems
+Solution to Interview Bit Programming problems
